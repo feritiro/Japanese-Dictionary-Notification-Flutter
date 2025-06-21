@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was a test to see if Flutter allowed custom notifications on the lockscreen.
+- It didn't. It does not allowed to show bigger font sizes in the notification or mpre customizations such as buttons.
 
 A few resources to get you started if this is your first Flutter project:
 
